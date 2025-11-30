@@ -1,1 +1,1 @@
-Data acquired from: https://www.kaggle.com/datasets/rehan497/health-lifestyle-dataset
+Data acquired from: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetes_012_health_indicators_BRFSS2015.csv
